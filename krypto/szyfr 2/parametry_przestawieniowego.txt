@@ -1,0 +1,7 @@
+index: 279518
+
+szyfr macierzowy kolumnowy
+
+macierz:
+95 kolumn - w zależności od 3 i 4 cyfry indexu
+18 wierszy - w zależności od 5 i 6 cyfry indexu

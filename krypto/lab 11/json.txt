@@ -1,0 +1,25 @@
+
+Saldo po 1 kopaniu: 0
+Blok wykopany! 
+Poprzedni Hash: 1ee4f6762f6a91e558833295b6c822b6063bfb474bd0a28cb693d055c1bfcfe7 
+Nonce: 1554 
+Hash: 51823e0651c26b4708b2ab7f3d715f6ab4946f556cc6d5b6b31e2a11059afc3a
+Czas potrzebny do wykopania bloku: 0.010637044906616211 sekund
+Saldo po 2 kopaniu: 10
+Blok wykopany! 
+Poprzedni Hash: 51823e0651c26b4708b2ab7f3d715f6ab4946f556cc6d5b6b31e2a11059afc3a 
+Nonce: 3986 
+Hash: 518173e23c1b88ff9701eaf1e04918572d7c7599b4e093d7106c970ae43de96f
+Czas potrzebny do wykopania bloku: 0.01399993896484375 sekund
+Saldo po 3 kopaniu: 20
+Blok wykopany! 
+Poprzedni Hash: 518173e23c1b88ff9701eaf1e04918572d7c7599b4e093d7106c970ae43de96f 
+Nonce: 7466 
+Hash: 518e5bd316eb2fa9f961b1abbc84e660df103a436c2498da040b0373f4a9b3a3
+Czas potrzebny do wykopania bloku: 0.030524253845214844 sekund
+Saldo po 4 kopaniu: 30
+Blok wykopany! 
+Poprzedni Hash: 518e5bd316eb2fa9f961b1abbc84e660df103a436c2498da040b0373f4a9b3a3 
+Nonce: 1770 
+Hash: 518ff0b4744877a2ebe8e259207c9775ffeed6b3cc5d0379f0b1dc318d95dec3
+Czas potrzebny do wykopania bloku: 0.0050144195556640625 sekund
